@@ -1,4 +1,10 @@
-[English](README.md) | [日本語](README.ja.md)
+# Get started
+```
+download docker image
+https://hub.docker.com/r/yutaronishiyama/riscv-chisel-book
+
+docker pull yutaronishiyama/riscv-chisel-book
+```
 
 # An educational open-source CPU implemented with RISC-V and Chisel
 
@@ -20,7 +26,7 @@ The publication covers
 ## Getting Started
 
 1. Clone this repo.
-	
+
 	```
 	git clone https://github.com/chadyuu/riscv-chisel-book.git
 	```
